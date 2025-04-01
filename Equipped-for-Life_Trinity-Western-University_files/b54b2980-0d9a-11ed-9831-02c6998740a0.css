@@ -1,0 +1,75 @@
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("https://cdn.fonts.net/t/1.css?apiType=css&projectid=b54b2980-0d9a-11ed-9831-02c6998740a0");
+  
+@font-face {
+  font-family: "JansonText75Bold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('JansonText/JansonText75Bold_normal_normal.woff2') format('woff2'), url('JansonText/JansonText75Bold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "VerlagBookItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Verlag/VerlagBookItalic_italic_normal.woff2') format('woff2'), url('Verlag/VerlagBookItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "JansonText55Roman";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('JansonText/JansonText55Roman_normal_normal.woff2') format('woff2'), url('JansonText/JansonText55Roman_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "JansonText56Italic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('JansonText/JansonText56Italic_italic_normal.woff2') format('woff2'), url('JansonText/JansonText56Italic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "VerlagLightItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Verlag/VerlagLightItalic_italic_normal.woff2') format('woff2'), url('Verlag/VerlagLightItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "VerlagBoldItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Verlag/VerlagBoldItalic_italic_normal.woff2') format('woff2'), url('Verlag/VerlagBoldItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "VerlagBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Verlag/VerlagBold_normal_normal.woff2') format('woff2'), url('Verlag/VerlagBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "VerlagLight";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Verlag/VerlagLight_normal_normal.woff2') format('woff2'), url('Verlag/VerlagLight_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "JansonText76BoldItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('JansonText/JansonText76BoldItalic_italic_normal.woff2') format('woff2'), url('JansonText/JansonText76BoldItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "VerlagBook";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Verlag/VerlagBook_normal_normal.woff2') format('woff2'), url('Verlag/VerlagBook_normal_normal.woff') format('woff');
+}
